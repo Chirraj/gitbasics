@@ -17,5 +17,9 @@ function main(){
   duplicates();   
 }
 
+function main(){
+    duplicates();   
+  }
+
   console.log(duplicates([[1, 2, 3, 5], [3, 2, 1, 5], [97.87]]));
   
