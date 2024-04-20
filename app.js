@@ -25,6 +25,9 @@ function main1() {
     console.log("eact pizza");
   } else if (hungry === false) {
     console.log("drink water");
+  }
+  else if (hungry === undefined) {
+    console.log("do nothing");
   } else {
     console.log("Please run");
   }
